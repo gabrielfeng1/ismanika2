@@ -14,7 +14,7 @@ var simpleStore = {
     // Default settings
     settings: {
         numColumns: 3,
-        brand: "SimpleStore",
+        brand: "Ismanika",
         mode: "JSON",
         JSONFile: "products.json",
         fadeSpeed: 200,
