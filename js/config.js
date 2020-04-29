@@ -4,7 +4,7 @@ $(function() {
 	    // array representing the format and columns of the cart, see
 	    // the cart columns documentation
 	    cartColumns: [
-	        { attr: "name" , label: "Name" },
+	        { attr: "name" , label: "Aloe Vera Drink" },
 	        { attr: "price" , label: "Price", view: 'currency' },
 	        { view: "decrement" , label: false },
 	        { attr: "quantity" , label: "Qty" },
@@ -73,7 +73,7 @@ $(function() {
 	simpleStore.init({
 
 		// brand can be text or image URL
-		brand : "SimpleStore",
+		brand : "Ismanika",
 
 		// numder of products per row (accepts 1, 2 or 3)
 		numColumns : 3,
